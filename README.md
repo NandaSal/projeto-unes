@@ -10,3 +10,7 @@ Simple project of a fictional college website, made only with HTML, with the sol
 
 HTML
 
+## Live Version
+
+Acess https://projeto-unes-xi.vercel.app/ to see a live version of the project.
+
